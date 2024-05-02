@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BitcotAppointment</string>
+    <string name="label_login">Login</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="preference_key">BitcotAppPreferences</string>
+    <string name="title_activity_patient">PatientActivity</string>
+    <string name="label_doctor_list">Doctor list</string>
+    <string name="label_appointment_list">Appointment list</string>
+    <string name="prefix_age">Age : %d</string>
+    <string name="prefix_appointment">Appointment # %d</string>
+    <string name="prefix_status">Status : %s</string>
+    <string name="hint_Comments">Comments(Optional)</string>
+
+    <string name="action_accept">Accept</string>
+    <string name="action_reject">Reject</string>
+    <string name="action_complete">Complete</string>
+    <string name="action_book_appointment">Book Appointment</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="label_add_comments">Add Comments</string>
+</resources>
